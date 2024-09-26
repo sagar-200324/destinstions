@@ -1,0 +1,27 @@
+body{
+    background-color:cadetblue;
+    background: url();
+    
+}
+h1:hover{
+    font-style:italic;
+    color: white;
+border-style:double;
+border-radius: 10px;
+border: height 200px;
+}
+p :hover{
+    font-size: larger;
+    color: white;
+}
+img:hover{
+    width: 400px;
+    height:auto;
+    border-radius: 10px;
+}
+button :hover{
+    font-style: italic;
+    color: black;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
